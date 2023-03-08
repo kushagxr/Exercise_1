@@ -94,7 +94,7 @@ public class CardTrick {
         System.out.println("-- Stock Market Analysis");
         System.out.println("-- Riding my motorcycle");
 
-        System.out.println();
+        System.out.println(Hello);
         
     
     }
